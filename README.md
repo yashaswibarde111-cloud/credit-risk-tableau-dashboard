@@ -1,14 +1,21 @@
 # AI-Powered Credit Risk & Collections Dashboard
 
-## Overview
-Built an interactive Tableau dashboard to analyze customer credit risk, loan exposure, and collections priorities.
+## Dashboard Preview
+
+![Dashboard](image.png)
+
+## Project Overview
+
+This Tableau dashboard analyzes customer credit risk, loan exposure, and collections priorities.
 
 ## Tools Used
+
 - Tableau Public
-- Tableau Desktop
+- GitHub
 - CSV Dataset
 
-## Features
+## Key Features
+
 - Risk Distribution Analysis
 - Collections Priority Monitoring
 - Purpose Risk Analysis
@@ -16,7 +23,9 @@ Built an interactive Tableau dashboard to analyze customer credit risk, loan exp
 - Risk Analysis
 
 ## Dataset
+
 German Credit Dataset
 
 ## Author
+
 Yashaswi Barde
